@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'ebaf35a6487f4c959232a22c23871710',
+  rootNotionPageId: '098c6ffe815543589afb8aadaf3c6b15',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'WebSite',
-  domain: 'https://utf9.notion.site/WebSite-ebaf35a6487f4c959232a22c23871710',
+  name: 'Notes',
+  domain: 'https://utf9.notion.site/goGoGO-098c6ffe815543589afb8aadaf3c6b15',
   author: 'Charles',
 
   // open graph metadata (optional)
